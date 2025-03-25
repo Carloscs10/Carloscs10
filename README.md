@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
- <a href="https://www.instagram.com/carlos.cesar.cs/?next=%2F">
+ <a href="">
  <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="25px" src="https://icones.pro/wp-content/uploads/2021/02/instagram-icone-noir.png" />
  </a> 
 
